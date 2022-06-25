@@ -1,6 +1,8 @@
-boluo_test:
-    host: 127.0.0.1
-    user: root
-    password: root
-    db: order
+dingchao_db:
+    host: mysql.sqlpub.com
+    user: dingchao
+    password: 6049773e1914457d
+    db: dingchao_db
+
+
 
